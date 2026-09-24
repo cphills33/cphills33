@@ -1,16 +1,18 @@
-## Hi there 👋
+# Curtis Phills
 
-<!--
-**cphills33/cphills33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Professor of Psychology, University of Oregon
 
-Here are some ideas to get you started:
+Dr. Phills is interested in three fundamental questions:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- What is implicit bias?
+- What causes implicit bias?
+- How can we reduce implicit bias?
+
+## Teaching
+
+- [Learn Multilevel Modeling with R and the NFL](https://github.com/cphills33/Learn-MLM-with-R-and-the-NFL) — in progress; modules planned throughout Fall 2026.
+
+## Tools
+
+- [C² Quarto theme](https://github.com/cphills33/csquared-quarto-theme)
+- [C² RStudio themes](https://github.com/cphills33/C-Squared-RStudio-Themes)
